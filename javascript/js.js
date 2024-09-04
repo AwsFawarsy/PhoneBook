@@ -9,7 +9,7 @@ let contacts = [
     contactEmail: "sereenrizik@gmail.com",
     contactAddrerss: "Israel",
     contactText: "Hello my name is Sereen Rizik",
-    contactImage: "../images/sereen.jpg",
+    contactImage: "./images/sereen.jpg",
   },
   {
     contactID: "2",
@@ -18,7 +18,7 @@ let contacts = [
     contactEmail: "Awssoooo@gmail.com",
     contactAddrerss: "Israel",
     contactText: "Hello my name is Aws Fawarsy!",
-    contactImage: "../images/Aws.jpg",
+    contactImage: "./images/Aws.jpg",
   },
   {
     contactID: "3",
@@ -27,7 +27,7 @@ let contacts = [
     contactEmail: "JanMike123@gmail.com",
     contactAddrerss: "Israel",
     contactText: "Hello my name is Jan Mike!",
-    contactImage: "../images/Jan.jpg",
+    contactImage: "./images/Jan.jpg",
   },
   {
     contactID: "4",
@@ -36,7 +36,7 @@ let contacts = [
     contactEmail: "stevomartin@gmail.com",
     contactAddrerss: "Israel",
     contactText: "Hello my name is Steve Martin",
-    contactImage: "../images/Steve.jpg",
+    contactImage: "./images/Steve.jpg",
   },
 ];
 
